@@ -171,7 +171,7 @@ def menu():
         print("8) Verificar palíndromo")
         print("9) Converter temperaturas")
         print("10) Sair")
-        
+    
         opcao = input("Opção: ")
         
         if opcao == "1":
@@ -197,5 +197,5 @@ def menu():
             break
         else:
             print("Opção inválida. Tente novamente.")
-
+#APENAS TESTANDO A ATUALIZACAO DO GIT E GITHUB
 menu()
