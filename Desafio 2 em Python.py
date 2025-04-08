@@ -197,5 +197,4 @@ def menu():
             break
         else:
             print("Opção inválida. Tente novamente.")
-#APENAS TESTANDO A ATUALIZACAO DO GIT E GITHUB
 menu()
